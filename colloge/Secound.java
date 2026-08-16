@@ -14,5 +14,4 @@ public class Secound {
         System.out.println("vikram pal");
 
        }
-
 }
