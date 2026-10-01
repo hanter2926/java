@@ -1,5 +1,6 @@
 class LOOPTRAP{
-    public static void main(String args[]){
+    public static void main(String args[])
+    {
 
         int i;
         
@@ -11,3 +12,5 @@ class LOOPTRAP{
         System.out.println(i);
     }
 }
+
+#output 33
