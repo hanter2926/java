@@ -3,7 +3,6 @@ public class Hourglass_Pattern {
         int n = 3;
 
         for (int i = n; i >= 1; i--) {
-            // Leading spaces
             for (int j = 0; j < n - i; j++) {
                 System.out.print("  ");
             }
