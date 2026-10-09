@@ -44,6 +44,8 @@ public class spiral {
             }
 
             System.out.println();
+            System.out.println();
+
         }
     }
 }
