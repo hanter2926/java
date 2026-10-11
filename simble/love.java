@@ -1,5 +1,5 @@
 
-public class Love {
+public class love {
     public static void main(String[] args) {
 
         for (int i = 0; i < 6; i++) {
@@ -93,7 +93,6 @@ public class Love {
         for (int i = 0; i < 7; i++) {
             for (int j = 0; j < 19; j++) {
 
-                // Y
                 if (j <= 4) {
                     if ((i < 3 && (j == 0 || j == 4)) ||
                         (i == 3 && j == 2) ||
@@ -109,7 +108,7 @@ public class Love {
                     System.out.print(" ");
                 }
 
-                // O
+                
                 else if (j >= 8 && j <= 12) {
                     if (((i == 0 || i == 6) && j > 8 && j < 12) ||
                         ((j == 8 || j == 12) && i > 0 && i < 6)) {
