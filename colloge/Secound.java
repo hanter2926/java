@@ -1,5 +1,3 @@
-package colloge;
-
 public class Secound {
 
     int a= 20;
