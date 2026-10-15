@@ -1,7 +1,4 @@
-number.importjava.io.*;
-import 
-java.util.*;class
-
+public class fact{
 fact{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
@@ -14,6 +11,7 @@ fact{
         System.out.println("factorial of the number is:"+fact);
 
     }
+}
 }
 
 
