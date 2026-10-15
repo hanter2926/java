@@ -1,6 +1,3 @@
-package colloge;
-
-import java.io,*;
 class whether{
     public static void main(String[] args){
        int n=121, r, num=0;
