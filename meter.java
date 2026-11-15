@@ -7,7 +7,7 @@ public class meter {
     }
     void show()
     {
-     System.out.println(x + " "+ y);   
+     System.out.println(x + "  "+ y);   
 
     }
 }
